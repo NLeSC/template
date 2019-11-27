@@ -2,7 +2,7 @@
 name: License
 about: Add a license
 title: Add a license
-labels: 'best-practices'
+labels: ''
 assignees: ''
 
 ---
