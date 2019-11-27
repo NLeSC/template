@@ -11,34 +11,24 @@ _(Customize these badges with your own links.)_
 
 # Welcome
 
-The repository [https://github.com/NLeSC/template](https://github.com/NLeSC/template) contains the template for software projects at the Netherlands
-eScience Center. In principle, it follows the general recommendations from
-https://fair-software.nl for developing research software, while adding details that are specific to the Netherlands eScience Center. 
+The repository
+[https://github.com/NLeSC/template](https://github.com/NLeSC/template) contains
+the template for software projects at the Netherlands eScience Center. In
+principle, it follows the general recommendations from https://fair-software.nl
+for developing research software, while adding details that are specific to the
+Netherlands eScience Center. 
 
-When starting a new project, first fork this repository to your own GitHub organization (if you have one), and mark it as 'template repository' in the newly forked repository's settings (``https://github.com/<your-github-org>/template/settings``).
+When starting a new project, look for GitHub's prompt to use the template as a
+starting point.
 
-Next, make a new repository. GitHub should prompt you to use the template as a starting point.
+The template comes with the 5 recommendations from
+[fair-software.nl](https://fair-software.nl) predefined as GitHub issues. You'll
+see them as soon as you click ``New issue``. For each one, click ``Get started``
+to instantiate the issue from the issue template.
 
-## Use a publicly accessible repository with version control
-
-We use ``git`` in combination with GitHub. Get started with learning ``git`` using these [Software Carpentry lessons](https://swcarpentry.github.io/git-novice/).
-
-## Add a software license
-
-We use the Apache-2.0 license.
-
-## Register your code in a community registry
-
-The Netherlands eScience Center has its own software portfolio at [research-software.nl](https://research-software.nl). If your software has some significant time or money from the Netherlands eScience Center in it, AND we can realistically claim (co)-ownership of the software, submit your software to the Research Software Directory using its admin interface. [This document](https://github.com/research-software-directory/research-software-directory/blob/master/docs/instruction/README.md) explains how to do that.
-
-## Enable citation
-
-[This document](https://guide.esciencecenter.nl/citable_software/making_software_citable.html) describes how to make your software citable using the Citation File Format in combination with the GitHub-Zenodo integration.
-
-## Use a code quality checklist
-
-We use the [Core Infrastructures Initiative checklist](https://bestpractices.coreinfrastructure.org/en). You'll find that it covers many aspects of developing code, some of which may not apply to your project. It's perfectly fine to not be compliant with those, as long as you're transparent on why that is.
-
+Once you have the 5 recommendations as issues in your issue list, feel free to
+delete the corresponding issue templates from
+[/.github/ISSUE_TEMPLATE](/.github/ISSUE_TEMPLATE).
 
 # Documentation for users
 
