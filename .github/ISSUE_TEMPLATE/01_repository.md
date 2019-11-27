@@ -1,8 +1,8 @@
 ---
 name: Repository
 about: Use a publicly accessible repository with version control
-title: ''
-labels: best-practices
+title: Use a publicly accessible repository with version control
+labels: ''
 assignees: ''
 
 ---
