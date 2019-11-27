@@ -23,12 +23,14 @@ starting point.
 
 The template comes with the 5 recommendations from
 [fair-software.nl](https://fair-software.nl) predefined as GitHub issues. You'll
-see them as soon as you click ``New issue``. For each one, click ``Get started``
+see them as soon as you click [``New issue``](/../../issues/new/choose). For each one, click ``Get started``
 to instantiate the issue from the issue template.
 
 Once you have the 5 recommendations as issues in your issue list, feel free to
-delete the corresponding issue templates from
-[/.github/ISSUE_TEMPLATE](/.github/ISSUE_TEMPLATE).
+delete
+- the corresponding issue templates from
+[/.github/ISSUE_TEMPLATE](/.github/ISSUE_TEMPLATE)
+- the Welcome section in this README.md
 
 # Documentation for users
 

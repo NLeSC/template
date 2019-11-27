@@ -7,8 +7,5 @@ assignees: ''
 
 ---
 
-[This
-  document](https://guide.esciencecenter.nl/citable_software/making_software_citable.html)
-  describes how to make your software citable using the Citation File Format in
-  combination with the GitHub-Zenodo integration.
+[This document](https://guide.esciencecenter.nl/citable_software/making_software_citable.html) describes how to make your software citable using the Citation File Format in combination with the GitHub-Zenodo integration.
 
