@@ -1,13 +1,16 @@
 # Badges
 
-| Aspect | Badge |
+| fair-software.nl recommendations | Badge |
 |:-|:-:|
-| Code quality checklist | [![cii best practices](https://bestpractices.coreinfrastructure.org/projects/1811/badge)](https://bestpractices.coreinfrastructure.org/projects/1811)  |
-| Continuous integration | [![Build Status](https://travis-ci.org/research-software-directory/research-software-directory.svg?branch=master)](https://travis-ci.org/research-software-directory/research-software-directory) [![Build status](https://ci.appveyor.com/api/projects/status/vki0xma8y7glpt09/branch/master?svg=true)](https://ci.appveyor.com/project/NLeSC/xenon-cli/branch/master)  |
-| persistent identifier, citation | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
-| Community registry | [![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg)](https://www.research-software.nl/software/xenon) |
+| 1. Code Repository | [![dd](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
+| 2. License | [![aa](https://img.shields.io/github/license/citation-file-format/cff-converter-python)]((https://img.shields.io/github/license/citation-file-format/cff-converter-python))  |
+| 3. Community Registry | [![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg)](https://www.research-software.nl/software/xenon) |
+| 4. Enable Citation | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
+| 5. Code Quality Checklist | [![cii best practices](https://bestpractices.coreinfrastructure.org/projects/1811/badge)](https://bestpractices.coreinfrastructure.org/projects/1811)  |
+| **Other** | **Badge** |
+| Continuous Integration | [![Build Status](https://travis-ci.org/research-software-directory/research-software-directory.svg?branch=master)](https://travis-ci.org/research-software-directory/research-software-directory) [![Build status](https://ci.appveyor.com/api/projects/status/vki0xma8y7glpt09/branch/master?svg=true)](https://ci.appveyor.com/project/NLeSC/xenon-cli/branch/master)  |
 
-_(Customize these badges with your own links.)_
+_(Customize these badges with your own links. Check https://shields.io/ to see which badges are available.)_
 
 # Welcome
 
