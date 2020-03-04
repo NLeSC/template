@@ -2,7 +2,8 @@
 
 | fair-software.nl recommendations | Badge |
 |:-|:-:|
-| [1. Code Repository](https://fair-software.nl/recommendations/repository) | [![dd](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
+| [1. Code Repository](https://fair-software.nl/recommendations/repository) | [![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
+| &nbsp; | [![GitLab URL](https://img.shields.io/badge/gitlab-repo-000.svg?logo=gitlab&style=flat&link=https://gitlab.com/inkscape/inkscape&labelColor=gray&color=blue)](https://img.shields.io/badge/gitlab-repo-000.svg?logo=gitlab&style=flat&link=https://gitlab.com/inkscape/inkscape&labelColor=gray&color=blue) |
 | [2. License](https://fair-software.nl/recommendations/license) | [![aa](https://img.shields.io/github/license/citation-file-format/cff-converter-python)]((https://img.shields.io/github/license/citation-file-format/cff-converter-python))  |
 | [3. Community Registry](https://fair-software.nl/recommendations/registry) | [![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg)](https://www.research-software.nl/software/xenon) |
 | [4. Enable Citation](https://fair-software.nl/recommendations/citation) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
