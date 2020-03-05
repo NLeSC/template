@@ -14,6 +14,11 @@
 | **Other**                                                                       | **Badge** |
 | Continuous Integration                                                          | [![Build Status](https://travis-ci.org/research-software-directory/research-software-directory.svg?branch=master)](https://travis-ci.org/research-software-directory/research-software-directory) |
 | &nbsp;                                                                          | [![Build status](https://ci.appveyor.com/api/projects/status/vki0xma8y7glpt09/branch/master?svg=true)](https://ci.appveyor.com/project/NLeSC/xenon-cli/branch/master)  |
+| Code Analysis                                                                   | [CodeClimate]() |
+| &nbsp;                                                                          | [Codacy]() |
+| &nbsp;                                                                          | [SonarCloud]() |
+| Code Coverage                                                                   | [![codecov](https://codecov.io/gh/wadpac/GGIR/branch/master/graph/badge.svg)](https://codecov.io/gh/wadpac/GGIR) |
+| Documentation                                                                   | [ReadTheDocs]() |
 
 _(Customize these badges with your own links. Check https://shields.io/ to see which badges are available.)_
 
