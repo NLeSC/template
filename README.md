@@ -2,10 +2,10 @@
 
 | fair-software.nl recommendations | Example Badges |
 |:-|:-:|
-| [1. Code Repository](https://fair-software.nl/recommendations/repository)       | ![GitHub URL](https://img.shields.io/badge/github-repo-000.svg?logo=github&style=flat&link=https://github.com/xenon-middleware/xenon-cli&labelColor=gray&color=blue) |
-| &nbsp;                                                                          | ![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
-| [2. License](https://fair-software.nl/recommendations/license)                  | ![License](https://img.shields.io/github/license/citation-file-format/cff-converter-python) |
-| &nbsp;                                                                          | ![License](https://img.shields.io/github/license/wadpac/GGIR) |
+| [1. Code Repository](https://fair-software.nl/recommendations/repository)       | [![GitHub URL](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/xenon-middleware/xenon-cli) |
+| &nbsp;                                                                          | [![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://github.com/xenon-middleware/xenon-cli) |
+| [2. License](https://fair-software.nl/recommendations/license)                  | [![License](https://img.shields.io/github/license/citation-file-format/cff-converter-python)](https://github.com/citation-file-format/cff-converter-python) |
+| &nbsp;                                                                          | [![License](https://img.shields.io/github/license/wadpac/GGIR)](https://github.com/wadpac/ggir) |
 | [3. Community Registry](https://fair-software.nl/recommendations/registry)      | ![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg&link=https://www.research-software.nl/software/xenon) |
 | &nbsp;                                                                          | ![PyPI](https://img.shields.io/pypi/v/cffconvert.svg) |
 | &nbsp;                                                                          | ![bintray](https://img.shields.io/bintray/v/nlesc/xenon/xenon) |
