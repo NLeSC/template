@@ -6,8 +6,8 @@
 | &nbsp;                                                                          | [![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://github.com/xenon-middleware/xenon-cli) |
 | [2. License](https://fair-software.nl/recommendations/license)                  | [![License](https://img.shields.io/github/license/citation-file-format/cff-converter-python)](https://github.com/citation-file-format/cff-converter-python) |
 | &nbsp;                                                                          | [![License](https://img.shields.io/github/license/wadpac/GGIR)](https://github.com/wadpac/ggir) |
-| [3. Community Registry](https://fair-software.nl/recommendations/registry)      | ![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg&link=https://www.research-software.nl/software/xenon) |
-| &nbsp;                                                                          | ![PyPI](https://img.shields.io/pypi/v/cffconvert.svg) |
+| [3. Community Registry](https://fair-software.nl/recommendations/registry)      | [![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg&link=https://www.research-software.nl/software/xenon)](https://research-software.nl/software/xenon) |
+| &nbsp;                                                                          | [![PyPI](https://img.shields.io/pypi/v/cffconvert.svg)](https://pypi.org/project/cffconvert) |
 | &nbsp;                                                                          | ![bintray](https://img.shields.io/bintray/v/nlesc/xenon/xenon) |
 | &nbsp;                                                                          | [![NPM](   )]() |
 | [4. Enable Citation](https://fair-software.nl/recommendations/citation)         | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
