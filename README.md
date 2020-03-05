@@ -1,15 +1,20 @@
 # Badges
 
-| fair-software.nl recommendations | Badge |
+| fair-software.nl recommendations | Example Badges |
 |:-|:-:|
-| [1. Code Repository](https://fair-software.nl/recommendations/repository) | [![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli)](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
-| &nbsp; | [![GitLab URL](https://img.shields.io/badge/gitlab-repo-000.svg?logo=gitlab&style=flat&link=https://gitlab.com/inkscape/inkscape&labelColor=gray&color=blue)](https://img.shields.io/badge/gitlab-repo-000.svg?logo=gitlab&style=flat&link=https://gitlab.com/inkscape/inkscape&labelColor=gray&color=blue) |
-| [2. License](https://fair-software.nl/recommendations/license) | [![aa](https://img.shields.io/github/license/citation-file-format/cff-converter-python)]((https://img.shields.io/github/license/citation-file-format/cff-converter-python))  |
-| [3. Community Registry](https://fair-software.nl/recommendations/registry) | [![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg)](https://www.research-software.nl/software/xenon) |
-| [4. Enable Citation](https://fair-software.nl/recommendations/citation) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
+| [1. Code Repository](https://fair-software.nl/recommendations/repository)       | ![GitHub URL](https://img.shields.io/badge/github-repo-000.svg?logo=github&style=flat&link=https://github.com/xenon-middleware/xenon-cli&labelColor=gray&color=blue) |
+| &nbsp;                                                                          | ![GitHub](https://img.shields.io/github/last-commit/xenon-middleware/xenon-cli) |
+| [2. License](https://fair-software.nl/recommendations/license)                  | ![License](https://img.shields.io/github/license/citation-file-format/cff-converter-python) |
+| &nbsp;                                                                          | ![License](https://img.shields.io/github/license/wadpac/GGIR) |
+| [3. Community Registry](https://fair-software.nl/recommendations/registry)      | ![Research Software Directory](https://img.shields.io/badge/rsd-xenon-00a3e3.svg&link=https://www.research-software.nl/software/xenon) |
+| &nbsp;                                                                          | ![PyPI](https://img.shields.io/pypi/v/cffconvert.svg) |
+| &nbsp;                                                                          | ![bintray](https://img.shields.io/bintray/v/nlesc/xenon/xenon) |
+| &nbsp;                                                                          | [![NPM](   )]() |
+| [4. Enable Citation](https://fair-software.nl/recommendations/citation)         | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154130.svg)](https://doi.org/10.5281/zenodo.1154130) |
 | [5. Code Quality Checklist](https://fair-software.nl/recommendations/checklist) | [![cii best practices](https://bestpractices.coreinfrastructure.org/projects/1811/badge)](https://bestpractices.coreinfrastructure.org/projects/1811)  |
-| **Other** | **Badge** |
-| Continuous Integration | [![Build Status](https://travis-ci.org/research-software-directory/research-software-directory.svg?branch=master)](https://travis-ci.org/research-software-directory/research-software-directory) [![Build status](https://ci.appveyor.com/api/projects/status/vki0xma8y7glpt09/branch/master?svg=true)](https://ci.appveyor.com/project/NLeSC/xenon-cli/branch/master)  |
+| **Other**                                                                       | **Badge** |
+| Continuous Integration                                                          | [![Build Status](https://travis-ci.org/research-software-directory/research-software-directory.svg?branch=master)](https://travis-ci.org/research-software-directory/research-software-directory) |
+| &nbsp;                                                                          | [![Build status](https://ci.appveyor.com/api/projects/status/vki0xma8y7glpt09/branch/master?svg=true)](https://ci.appveyor.com/project/NLeSC/xenon-cli/branch/master)  |
 
 _(Customize these badges with your own links. Check https://shields.io/ to see which badges are available.)_
 
